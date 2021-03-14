@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Attempt for sperner lemma 2d",
+"productVersion": "0.1",
+"dataUrl": "the sperner game.data.unityweb",
+"wasmCodeUrl": "the sperner game.wasm.code.unityweb",
+"wasmFrameworkUrl": "the sperner game.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.1f1"
+}
